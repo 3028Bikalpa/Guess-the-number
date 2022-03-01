@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634440595 source:c:\users\bikal\onedrive\desktop\c\guessthenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
